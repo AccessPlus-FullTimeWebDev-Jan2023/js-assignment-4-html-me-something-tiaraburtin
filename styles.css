@@ -1,1 +1,23 @@
 /* Write your CSS here! */
+
+body {
+    background-color: tan;
+}
+
+h1 {
+    text-align: center;
+    color: brown
+}
+h2 {
+    text-align: center;
+    color: chocolate
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 500px;
+}
+
