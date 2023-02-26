@@ -1,1 +1,137 @@
 /* Write your CSS here! */
+
+/* colors */
+body {
+    background-color: tan;
+}
+
+/* text */
+#mainHeader {
+    text-align: center;
+    size: 45px;
+    color: red
+}
+
+h1 {
+    text-align: center;
+    size: 45px;
+    color: red
+}
+
+h2 {
+    text-align: center;
+    size: 35px;
+    color: chocolate
+}
+
+.funParagraph {
+    color:green;
+}
+
+#Category {
+    text-align: center;
+    font-size: 29px;
+}
+
+.Uplift {
+    font-size: 25px;
+    color: brown;
+}
+
+/* //images */
+#Me {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 500px
+}
+#Policy {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 400px
+    
+}
+
+#Growing {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 500px
+    
+}
+
+#Market {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 400px
+     
+}
+
+#Tea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 400px 
+}
+
+#Birth {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 400px 
+}
+
+#Yoga {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 400px 
+}
+#Art {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 400px 
+}
+
+#Show {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px 
+}
+
+#Botanical {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 420px;
+    height: 500px 
+}
+
+#Unity {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 450px 
+}
+
+#Future {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 550px 
+}
